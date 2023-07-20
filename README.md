@@ -3,7 +3,8 @@ This purpose of this repository is to store and show case programs I have create
 
 **KaijuGuessingGame:**
 Stored in the zip file is the source code and the EXE(this can be found in the debug folder). The program was setup to
-use local folder/file location. Over time I add more Kaiju to the list. 
+use local folder/file location. Over time I'll add more Kaiju to the list. At somepoint, I'll modify it to be more of a general 
+guessing game rather than be specific.
 
 **FizzBuzz:**
 This was given as an interview question. 
